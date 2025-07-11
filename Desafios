@@ -1,6 +1,6 @@
 # Avaliando Métricas de Classificação com Python
+## 1 / 3 - Encontrando a Melhor Acurácia
 
-## 1
 
 Desafio
 Dadas n matrizes de confusão, crie um algoritmo que determine qual delas possui a maior acurácia (accuracy).
